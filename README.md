@@ -54,7 +54,7 @@ pip install termcolor prettytable
 1. Clone the repo
 
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/Tyemccahon/LogBook-Generator
 ```
 
 or download with the Download ZIP button
