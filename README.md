@@ -28,7 +28,8 @@ This is a simple Python program that generates logbook entries for use in car od
 
 This is a very lightweight program being ran in only a terminal youll need to install the dependencies first before running it if you dont already have them:
 
-VScode: https://code.visualstudio.com/
+VScode: https://code.visualstudio.com/ 
+
 Python: https://www.python.org/
 
 ## Built With
